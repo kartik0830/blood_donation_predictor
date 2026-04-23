@@ -80,7 +80,7 @@ Users can input donor details and receive:
 
 1. Clone the repository:
 
-git clone https://github.com/kartik0830/blood-donation-predictor.git
+git clone https://github.com/kartik0830/blood_donation_predictor.git
 
 
 2. Navigate to the project folder:
